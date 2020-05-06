@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SidewaysMath/static/css/main.d1b05096.chunk.css",
+    "main.js": "/SidewaysMath/static/js/main.9f1071dc.chunk.js",
+    "main.js.map": "/SidewaysMath/static/js/main.9f1071dc.chunk.js.map",
+    "runtime-main.js": "/SidewaysMath/static/js/runtime-main.9ef8e8f9.js",
+    "runtime-main.js.map": "/SidewaysMath/static/js/runtime-main.9ef8e8f9.js.map",
+    "static/js/2.486d8f95.chunk.js": "/SidewaysMath/static/js/2.486d8f95.chunk.js",
+    "static/js/2.486d8f95.chunk.js.map": "/SidewaysMath/static/js/2.486d8f95.chunk.js.map",
+    "index.html": "/SidewaysMath/index.html",
+    "precache-manifest.2e9bf69c34860fa47a486b22969bcae5.js": "/SidewaysMath/precache-manifest.2e9bf69c34860fa47a486b22969bcae5.js",
+    "service-worker.js": "/SidewaysMath/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/SidewaysMath/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.486d8f95.chunk.js.LICENSE.txt": "/SidewaysMath/static/js/2.486d8f95.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/SidewaysMath/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ef8e8f9.js",
+    "static/js/2.486d8f95.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.9f1071dc.chunk.js"
+  ]
+}
