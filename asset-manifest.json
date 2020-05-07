@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/SidewaysMath/static/css/main.894433ac.chunk.css",
-    "main.js": "/SidewaysMath/static/js/main.28077a9b.chunk.js",
-    "main.js.map": "/SidewaysMath/static/js/main.28077a9b.chunk.js.map",
-    "runtime-main.js": "/SidewaysMath/static/js/runtime-main.e89deac5.js",
-    "runtime-main.js.map": "/SidewaysMath/static/js/runtime-main.e89deac5.js.map",
-    "static/js/2.a6c395c2.chunk.js": "/SidewaysMath/static/js/2.a6c395c2.chunk.js",
-    "static/js/2.a6c395c2.chunk.js.map": "/SidewaysMath/static/js/2.a6c395c2.chunk.js.map",
+    "main.css": "/SidewaysMath/static/css/main.d1b05096.chunk.css",
+    "main.js": "/SidewaysMath/static/js/main.6d17e824.chunk.js",
+    "main.js.map": "/SidewaysMath/static/js/main.6d17e824.chunk.js.map",
+    "runtime-main.js": "/SidewaysMath/static/js/runtime-main.9ef8e8f9.js",
+    "runtime-main.js.map": "/SidewaysMath/static/js/runtime-main.9ef8e8f9.js.map",
+    "static/js/2.7440cf37.chunk.js": "/SidewaysMath/static/js/2.7440cf37.chunk.js",
+    "static/js/2.7440cf37.chunk.js.map": "/SidewaysMath/static/js/2.7440cf37.chunk.js.map",
     "index.html": "/SidewaysMath/index.html",
-    "precache-manifest.9d5ba05537ed4282ede20b0e54daa3bc.js": "/SidewaysMath/precache-manifest.9d5ba05537ed4282ede20b0e54daa3bc.js",
+    "precache-manifest.669ec3770fd1a52603fa619993737047.js": "/SidewaysMath/precache-manifest.669ec3770fd1a52603fa619993737047.js",
     "service-worker.js": "/SidewaysMath/service-worker.js",
-    "static/css/main.894433ac.chunk.css.map": "/SidewaysMath/static/css/main.894433ac.chunk.css.map",
-    "static/js/2.a6c395c2.chunk.js.LICENSE.txt": "/SidewaysMath/static/js/2.a6c395c2.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/SidewaysMath/static/media/logo.5d5d9eef.svg"
+    "static/css/main.d1b05096.chunk.css.map": "/SidewaysMath/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.7440cf37.chunk.js.LICENSE.txt": "/SidewaysMath/static/js/2.7440cf37.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e89deac5.js",
-    "static/js/2.a6c395c2.chunk.js",
-    "static/css/main.894433ac.chunk.css",
-    "static/js/main.28077a9b.chunk.js"
+    "static/js/runtime-main.9ef8e8f9.js",
+    "static/js/2.7440cf37.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.6d17e824.chunk.js"
   ]
 }
