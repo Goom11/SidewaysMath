@@ -1,21 +1,38 @@
 import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
+import sidewaysmath from "./sidewaysmath.js";
 
 class App extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { str1: "", str2: "", str3: "" };
+    this.state = {
+      str1: "",
+      str2: "",
+      str3: "",
+      bindings: new Map(),
+    };
 
     this.handleSubmit = this.handleSubmit.bind(this);
   }
 
   handleSubmit(event) {
-    alert("A name was submitted: " + this.state.str1);
+    const finalMapping = sidewaysmath(
+      this.state.str1,
+      this.state.str2,
+      this.state.str3
+    );
+    this.setState({ bindings: finalMapping });
     event.preventDefault();
   }
 
   render() {
+    const listItems = Array.from(
+      this.state.bindings.keys()
+    ).map((c) => (
+      <li key={c}>
+        {c} : {this.state.bindings.get(c)}
+      </li>
+    ));
     return (
       <div className="App">
         <header className="App-header">
@@ -32,7 +49,7 @@ class App extends React.Component {
             ></input>
           </label>
           <label>
-            Second Word:
+            Plus Second Word:
             <input
               type="text"
               id="str2"
@@ -43,7 +60,7 @@ class App extends React.Component {
             ></input>
           </label>
           <label>
-            Third Word:
+            Equals Third Word:
             <input
               type="text"
               id="str3"
@@ -56,18 +73,7 @@ class App extends React.Component {
           <button onClick={this.handleSubmit}>
             Solve!
           </button>
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
+          <ul>{listItems}</ul>
         </header>
       </div>
     );
