@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/SidewaysMath/static/css/main.d1b05096.chunk.css",
-    "main.js": "/SidewaysMath/static/js/main.6d17e824.chunk.js",
-    "main.js.map": "/SidewaysMath/static/js/main.6d17e824.chunk.js.map",
+    "main.js": "/SidewaysMath/static/js/main.17f43229.chunk.js",
+    "main.js.map": "/SidewaysMath/static/js/main.17f43229.chunk.js.map",
     "runtime-main.js": "/SidewaysMath/static/js/runtime-main.9ef8e8f9.js",
     "runtime-main.js.map": "/SidewaysMath/static/js/runtime-main.9ef8e8f9.js.map",
     "static/js/2.7440cf37.chunk.js": "/SidewaysMath/static/js/2.7440cf37.chunk.js",
     "static/js/2.7440cf37.chunk.js.map": "/SidewaysMath/static/js/2.7440cf37.chunk.js.map",
     "index.html": "/SidewaysMath/index.html",
-    "precache-manifest.669ec3770fd1a52603fa619993737047.js": "/SidewaysMath/precache-manifest.669ec3770fd1a52603fa619993737047.js",
+    "precache-manifest.cd3e6a982a5d08545ac27c3e1134f997.js": "/SidewaysMath/precache-manifest.cd3e6a982a5d08545ac27c3e1134f997.js",
     "service-worker.js": "/SidewaysMath/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/SidewaysMath/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.7440cf37.chunk.js.LICENSE.txt": "/SidewaysMath/static/js/2.7440cf37.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9ef8e8f9.js",
     "static/js/2.7440cf37.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.6d17e824.chunk.js"
+    "static/js/main.17f43229.chunk.js"
   ]
 }

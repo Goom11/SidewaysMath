@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "452449d849487e3d07f7345389a559ce",
+    "revision": "3535badd3214a1547e860cda18f4aaa1",
     "url": "/SidewaysMath/index.html"
   },
   {
-    "revision": "1aec98b5bc6ce1163cfd",
+    "revision": "a15d0874854320ad487a",
     "url": "/SidewaysMath/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SidewaysMath/static/js/2.7440cf37.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1aec98b5bc6ce1163cfd",
-    "url": "/SidewaysMath/static/js/main.6d17e824.chunk.js"
+    "revision": "a15d0874854320ad487a",
+    "url": "/SidewaysMath/static/js/main.17f43229.chunk.js"
   },
   {
     "revision": "77622c2747bac2496fb8",
