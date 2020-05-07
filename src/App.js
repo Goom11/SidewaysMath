@@ -36,7 +36,7 @@ class App extends React.Component {
     return (
       <div className="App">
         <header className="App-header">
-          <h1>Sideways Math Solver</h1>
+          <h1>Aman's Sideways Math Solver</h1>
           <label>
             First Word:
             <input
